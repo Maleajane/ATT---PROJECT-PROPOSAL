@@ -47,6 +47,5 @@ The goal of this project is to identify, investigate and analyze the issues that
 
 ## References
 https://www.un.org/sustainabledevelopment/gender-equality/
- source: https://www.facebook.com/PCWgovph/photos/a.147213871969647
 https://www.ombudsman.gov.ph/UNDP4/wp-content/uploads/2013/01/UN-Gender-Equity-Manual.pdf 
 https://www.unescap.org/sites/default/files/VAW%20and%20TUS%20surveys%20in%20Morocco.pdf
