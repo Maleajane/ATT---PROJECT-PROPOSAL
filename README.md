@@ -45,3 +45,8 @@ On this topic, many several investigations, assessments, and research initiative
 ## Expected Output:
 The goal of this project is to identify, investigate and analyze the issues that have a substantial impact on gender equality in any form. To gain a deeper understanding, the researcher will do extensive in-depth research and analysis. If the researchers’ findings are proven and there is a connection between the variables, and also if those findings are also getting worse, they can be used to raise awareness to reduce the factors that can contribute to gender inequality. It can also help for future research in developing a sufficient strategic plan. The government can also adapt and learn from the other nations that have effectively developed a strategy plan to address gender inequality. They can also advocate for a campaign and develop a program that can assist in resolving these challenges, especially among the younger generation.
 
+## References
+https://www.un.org/sustainabledevelopment/gender-equality/
+ source: https://www.facebook.com/PCWgovph/photos/a.147213871969647
+https://www.ombudsman.gov.ph/UNDP4/wp-content/uploads/2013/01/UN-Gender-Equity-Manual.pdf 
+https://www.unescap.org/sites/default/files/VAW%20and%20TUS%20surveys%20in%20Morocco.pdf
