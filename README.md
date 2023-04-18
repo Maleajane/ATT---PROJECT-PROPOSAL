@@ -35,8 +35,7 @@ As a consequence, there was neither available data nor deep analysis of gender s
 targeting women empowerment and gender equality and aiming to fight against gender based violence.
 
 ## Significance of the Proposed Project
-
-	Gender equality is a basic human right and a necessary condition for the elimination of poverty and attainment of national social and economic development. The principle of basic human rights calls for equal civil, political, economic, social and cultural rights for all individuals. In the Philippines and around the world, there is growing recognition that development and poverty reduction cannot be achieved without equal access by all groups to decision-making, planning, political participation, education, and productive resources.
+Gender equality is a basic human right and a necessary condition for the elimination of poverty and attainment of national social and economic development. The principle of basic human rights calls for equal civil, political, economic, social and cultural rights for all individuals. In the Philippines and around the world, there is growing recognition that development and poverty reduction cannot be achieved without equal access by all groups to decision-making, planning, political participation, education, and productive resources.
 
 This research will be useful for the following purposes:
 
