@@ -1,6 +1,6 @@
 ![Banner]( https://github.com/Maleajane/ATT---PROJECT-PROPOSAL/blob/main/Banner.jpg)
 
-# Project Title: Climate Change in the Philippines through the Years
+# Project Title: 
 
 ## Introduction
 
