@@ -2,7 +2,7 @@
 
 # Project Title: Addressing of the Issue of Gender Equality
 
-![Members] ![Members](https://user-images.githubusercontent.com/113288734/232810003-2732b0ee-f375-4ae7-88bf-fdab9c4b5481.png)
+![Members](https://user-images.githubusercontent.com/113288734/232810003-2732b0ee-f375-4ae7-88bf-fdab9c4b5481.png)
 
 #### This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)
 
