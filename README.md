@@ -1,6 +1,6 @@
 ![Banner]( https://github.com/Maleajane/ATT---PROJECT-PROPOSAL/blob/main/Banner.jpg)
 
-# Project Title: Addressing of the Issue of Gender Equality
+# Project Title: Addressing the Issue of Gender Equality
 
 ![Members](https://user-images.githubusercontent.com/113288734/232810003-2732b0ee-f375-4ae7-88bf-fdab9c4b5481.png)
 
