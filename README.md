@@ -19,16 +19,16 @@ The Philippines remains the best performing country in Asia in terms of gender p
 To summarize, this analysis focuses on the four (4) and five (5) SDGs, which are gender and educational opportunities are so strongly connected, particularly when it comes to access constraints for girls globally.  The goal of this research is to track developments in fair gender equality in all domains.
 
 ## Problem Statement 
-	    As a part of the National Strategy for gender equality, a Multi-sectoral Joint Program1 was implemented (2008-2012) for fighting against gender-based violence through the empowerment of women and girls. In this context, the demand for gender based violence and time use data had been expressed by all stakeholders 
+As a part of the National Strategy for gender equality, a Multi-sectoral Joint Program1 was implemented (2008-2012) for fighting against gender-based violence through the empowerment of women and girls. In this context, the demand for gender based violence and time use data had been expressed by all stakeholders 
 involved in this program and by other users. 
-         There was a lack of information on gender based violence, the prevalence of the phenomenon breakdown by different forms, places and perpetrators profiles and
+There was a lack of information on gender based violence, the prevalence of the phenomenon breakdown by different forms, places and perpetrators profiles and
 their relationship with the victims. Thus, the set-up of a database of indicators on gender based violence is necessary for monitoring and assessing policies 
 and programs aiming to fight violence against women and girls.
-         Concerning data on time use, Morocco conducted in 1997 a survey focusing on women TUS. It aimed only to measure the economic and social contribution of women 
+Concerning data on time use, Morocco conducted in 1997 a survey focusing on women TUS. It aimed only to measure the economic and social contribution of women 
 in society. Therefore, there was a lack of sex-disaggregated data that could measure domestic production and highlight gender inequalities in terms of time 
 allocation patterns, participation in all forms of paid and unpaid work, work-family balance, investment of time in education and health; welfare and quality
 of life, decision making and task sharing within the household and the couple. 
-            As a consequence, there was neither available data nor deep analysis of gender statistics in these two areas that could better reveal population groups where gender inequality is likely to be pronounced and violence is prevalent. This hindered the opportunity to develop effective programs and efficient policies
+As a consequence, there was neither available data nor deep analysis of gender statistics in these two areas that could better reveal population groups where gender inequality is likely to be pronounced and violence is prevalent. This hindered the opportunity to develop effective programs and efficient policies
 targeting women empowerment and gender equality and aiming to fight against gender based violence.
 
 ## Significance of the Proposed Project
