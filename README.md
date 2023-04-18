@@ -2,6 +2,10 @@
 
 # Project Title: Addressing of the Issue of Gender Equality
 
+![Members] ![Members](https://user-images.githubusercontent.com/113288734/232810003-2732b0ee-f375-4ae7-88bf-fdab9c4b5481.png)
+
+#### This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3204)
+
 ## Introduction
 
 Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world. There has been progress over the last decades, but the world is not on track to achieve gender equality by 2030. The social and economic fallout from the COVID-19 pandemic has made the situation even bleaker. Progress in many areas, including time spent on unpaid care and domestic work, decision-making regarding sexual and reproductive health, and gender-responsive budgeting, is falling behind. 
