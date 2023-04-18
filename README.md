@@ -39,13 +39,13 @@ Gender equality is a basic human right and a necessary condition for the elimina
 
 This research will be useful for the following purposes:
 
-**The Students.** For those students who will be need a information that may be found from the project. This will allow them to have a thorough understanding of the Gender Equality
+* **The Students.** For those students who will be need a information that may be found from the project. This will allow them to have a thorough understanding of the Gender Equality
 
-**The Teachers.** For teachers who will be teaching about Gender Equality in Philippines through the years. They can use the data gathered for the project in their coursework. 
+* **The Teachers.** For teachers who will be teaching about Gender Equality in Philippines through the years. They can use the data gathered for the project in their coursework. 
 
-**The Government Officials.** For specific government officials who will be need a information  that they may use for their future project/s related to Gender Equality.
+* **The Government Officials.** For specific government officials who will be need a information  that they may use for their future project/s related to Gender Equality.
 
-**The Future Researchers.** For the researchers to provide background knowledge about Gender Equality in the Philippines. This project's analytics can provide them with new insights, suggestions, and conclusions
+* **The Future Researchers.** For the researchers to provide background knowledge about Gender Equality in the Philippines. This project's analytics can provide them with new insights, suggestions, and conclusions
 
 ## Methods:
 
